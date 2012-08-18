@@ -1,3 +1,4 @@
+# on console use >> mongo sample-db
 require 'rubygems'
 require 'mongo'
 
