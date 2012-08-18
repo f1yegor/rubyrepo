@@ -1,0 +1,3 @@
+db.employees.insert({_id: 1, name: 'Leto'})
+db.employees.insert({_id: 2, name: 'Duncan', manager: 1});
+db.employees.insert({_id: 3, name: 'Moneo', manager: 1});
